@@ -2,43 +2,33 @@
   "canales": [
     {
       "nombre": "Ecuador TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ecuador_TV_logo.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png?20200502223912",
       "url": "https://stream.ecuadortv.ec/hls/live.m3u8"
     },
     {
       "nombre": "Teleamazonas",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/59/Teleamazonas_logo.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/640px-Teleamazonas_Logo.png",
       "url": "https://hv.teleamazonas.com/teleamazonas/index.m3u8"
     },
     {
       "nombre": "TC Televisión",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/TC_Television_Ecuador_Logo.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/640px-TC_logo2020.webp.png",
       "url": "https://stream.tctelevision.com/live/tctv.m3u8"
     },
     {
       "nombre": "Ecuavisa",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ecuavisa_logo.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/640px-Ecuavisa_Logo_2019.png",
       "url": "https://play.ecuavisa.com/live/hls/ecuavisa.m3u8"
     },
     {
       "nombre": "RTS",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/RTS_logo.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/640px-Rts_logo.png",
       "url": "https://stream.rts.com.ec/live/rts.m3u8"
     },
     {
       "nombre": "Gamavisión",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gamavision_logo.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gama_tv.png/640px-Gama_tv.png",
       "url": "https://stream.gamavision.com.ec/live/gamavision.m3u8"
-    },
-    {
-      "nombre": "Canal Uno",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Canal_Uno_logo.png",
-      "url": "https://stream.canaluno.com.ec/live/canaluno.m3u8"
-    },
-    {
-      "nombre": "El Comercio TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/El_Comercio_TV_logo.png",
-      "url": "https://stream.elcomercio.com.ec/live/elcomerciotv.m3u8"
     }
   ],
   "peliculas": [],
