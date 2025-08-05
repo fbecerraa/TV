@@ -3,7 +3,7 @@
     {
       "nombre": "Ecuador TV",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ecuador_TV_logo.png",
-      "url": "https://stream.ecuadortv.ec/hls.m3u8"
+      "url": "https://stream.ecuadortv.ec/hls/live.m3u8"
     },
     {
       "nombre": "Teleamazonas",
@@ -14,6 +14,31 @@
       "nombre": "TC Televisión",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/TC_Television_Ecuador_Logo.png",
       "url": "https://stream.tctelevision.com/live/tctv.m3u8"
+    },
+    {
+      "nombre": "Ecuavisa",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ecuavisa_logo.png",
+      "url": "https://play.ecuavisa.com/live/hls/ecuavisa.m3u8"
+    },
+    {
+      "nombre": "RTS",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/RTS_logo.png",
+      "url": "https://stream.rts.com.ec/live/rts.m3u8"
+    },
+    {
+      "nombre": "Gamavisión",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gamavision_logo.png",
+      "url": "https://stream.gamavision.com.ec/live/gamavision.m3u8"
+    },
+    {
+      "nombre": "Canal Uno",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Canal_Uno_logo.png",
+      "url": "https://stream.canaluno.com.ec/live/canaluno.m3u8"
+    },
+    {
+      "nombre": "El Comercio TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/El_Comercio_TV_logo.png",
+      "url": "https://stream.elcomercio.com.ec/live/elcomerciotv.m3u8"
     }
   ],
   "peliculas": [],
