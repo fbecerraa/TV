@@ -1,35 +1,63 @@
 {
   "canales": [
-    {
-      "nombre": "Ecuador TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png?20200502223912",
-      "url": "https://stream.ecuadortv.ec/hls/live.m3u8"
-    },
-    {
-      "nombre": "Teleamazonas",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/640px-Teleamazonas_Logo.png",
-      "url": "hhtp://redima.pro:8880/live/FLOFICO/FLOFICO/682.m3u8"
-    },
-    {
-      "nombre": "TC Televisión",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/640px-TC_logo2020.webp.png",
-      "url": "https://stream.tctelevision.com/live/tctv.m3u8"
-    },
-    {
-      "nombre": "Ecuavisa",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/640px-Ecuavisa_Logo_2019.png",
-      "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/447.m3u8"
-    },
-    {
-      "nombre": "RTS",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/640px-Rts_logo.png",
-      "url": "https://stream.rts.com.ec/live/rts.m3u8"
-    },
-    {
-      "nombre": "Gamavisión",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gama_tv.png/640px-Gama_tv.png",
-      "url": "https://stream.gamavision.com.ec/live/gamavision.m3u8"
-    }
+    {"nombre": "TELEAMAZONAS 2", "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png", "url": "hhtp://redima.pro:8880/live/FLOFICO/FLOFICO/682.m3u8"},
+    {"nombre": "ECUAVISA", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/447.m3u8"},
+    {"nombre": "ECUAVISA 2", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/448.m3u8"},
+    {"nombre": "RTS", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/449.m3u8"},
+    {"nombre": "RTS 2", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/450.m3u8"},
+    {"nombre": "TELEAMAZONAS 1", "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/451.m3u8"},
+    {"nombre": "TELEAMAZONAS 2", "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/452.m3u8"},
+    {"nombre": "TVC", "logo": "https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/453.m3u8"},
+    {"nombre": "TVC 2", "logo": "https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/454.m3u8"},
+    {"nombre": "ECUADOR TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/455.m3u8"},
+    {"nombre": "ECUADOR TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/456.m3u8"},
+    {"nombre": "ECUAVISA INTERNACIONAL", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/457.m3u8"},
+    {"nombre": "ECUAVISA INTERNACIONAL", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/458.m3u8"},
+    {"nombre": "RTU", "logo": "https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/459.m3u8"},
+    {"nombre": "RTU", "logo": "https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/460.m3u8"},
+    {"nombre": "TC", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/461.m3u8"},
+    {"nombre": "TC 2", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/462.m3u8"},
+    {"nombre": "GAMA TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/463.m3u8"},
+    {"nombre": "GAMA TV 2", "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/464.m3u8"},
+    {"nombre": "OROMAR", "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/465.m3u8"},
+    {"nombre": "OROMAR", "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/466.m3u8"},
+    {"nombre": "ONDA TV", "logo": "", "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/554.m3u8"},
+    {"nombre": "WIN SPORTS", "logo": "http://www.iptbest.xyz/logo/Win-Sports.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/23219"},
+    {"nombre": "WIN SPORTS HD", "logo": "http://www.iptbest.xyz/logo/Win-Sports-HD.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/857"},
+    {"nombre": "WIN SPORTS MAS", "logo": "http://www.iptbest.xyz/logo/Win-Sports-Mas-HD.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/34695"},
+    {"nombre": "WIN SPORTS MAS HD", "logo": "http://www.iptbest.xyz/logo/Win-Sports-Mas.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/492"},
+    {"nombre": "COLOMBIA - ABN HD", "logo": "http://www.iptbest.xyz/logo/ABN_Colombia.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/68410"},
+    {"nombre": "COLOMBIA - CABLENOTICIAS", "logo": "http://www.iptbest.xyz/logo/Cable_Noticias.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/92756"},
+    {"nombre": "COLOMBIA - CANAL CAPITAL", "logo": "http://www.iptbest.xyz/logo/Canal_Capital_Colombia.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/92720"},
+    {"nombre": "COLOMBIA - CANAL CONGRESO", "logo": "http://www.iptbest.xyz/logo/Canal_Congreso_Colombia.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/92719"},
+    {"nombre": "COLOMBIA - CANAL INSTITUCIONAL", "logo": "http://iptbest.xyz/logo/Canal_Institucional.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/22962"},
+    {"nombre": "COLOMBIA - CANAL TRO", "logo": "http://iptbest.xyz/logo/Canal_Tro.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/36562"},
+    {"nombre": "COLOMBIA - CANAL UNO", "logo": "http://www.iptbest.xyz/logo/Canal1-Colombia.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/91511"},
+    {"nombre": "COLOMBIA - CARACOL FHD", "logo": "http://iptbest.xyz:8000/images/0e1a8b7611b24623cfe0e96c153c67e3.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/22429"},
+    {"nombre": "COLOMBIA - CARACOL HD", "logo": "http://www.iptbest.xyz/logo/Caracol-Colombia.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/22428"},
+    {"nombre": "COLOMBIA - CARACOL INTERNACIONAL HD", "logo": "http://iptbest.xyz/logo/Caracol-Internacional-Colombia.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/92847"},
+    {"nombre": "COLOMBIA - CITY TV", "logo": "http://iptbest.xyz/logo/CityTV.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/22431"},
+    {"nombre": "COLOMBIA - EPOCA", "logo": "http://www.iptbest.xyz/logo/Epoca.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/92760"},
+    {"nombre": "COLOMBIA - NTN 24 HD", "logo": "http://iptbest.xyz/logo/NTN24.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/31324"},
+    {"nombre": "COLOMBIA - NUESTRA TELE HD", "logo": "http://www.iptbest.xyz/logo/nuestratele.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/92850"},
+    {"nombre": "COLOMBIA - PASIONES HD", "logo": "http://iptbest.xyz/logo/Pasiones.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/34616"},
+    {"nombre": "COLOMBIA - RCN", "logo": "http://iptbest.xyz:8000/images/202e7298b891dfb477669d988a0f6a19.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/22434"},
+    {"nombre": "COLOMBIA - RCN HD", "logo": "http://www.iptbest.xyz/logo/RCN.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/22433"},
+    {"nombre": "COLOMBIA - RCN MAS HD", "logo": "http://www.iptbest.xyz/logo/RCN-Mas.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/92455"},
+    {"nombre": "COLOMBIA - RCN NOVELAS HD", "logo": "http://www.iptbest.xyz/logo/RCN-Novelas.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/34567"},
+    {"nombre": "COLOMBIA - SEÑAL COLOMBIA HD", "logo": "http://www.iptbest.xyz/logo/Senal-Colombia.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/10703"},
+    {"nombre": "COLOMBIA - TELEANTIOQUIA", "logo": "http://www.iptbest.xyz/logo/Teleantioquia1.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/22438"},
+    {"nombre": "COLOMBIA - TELECAFE", "logo": "http://www.iptbest.xyz/logo/Telecafe.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/17264"},
+    {"nombre": "COLOMBIA - TELECARIBE", "logo": "http://www.iptbest.xyz/logo/Telecaribe.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/22439"},
+    {"nombre": "COLOMBIA - TELEISLAS", "logo": "http://iptbest.xyz/logo/Teleislas.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/68412"},
+    {"nombre": "COLOMBIA - TELEMEDELLIN HD", "logo": "http://iptbest.xyz/logo/TeleMedellin.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/34615"},
+    {"nombre": "COLOMBIA - TELEPACIFICO", "logo": "http://www.iptbest.xyz/logo/Telepacífico.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/22440"},
+    {"nombre": "COLOMBIA - TRECE", "logo": "http://www.iptbest.xyz/logo/Trece-Colombia.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/22441"},
+    {"nombre": "COLOMBIA - WIN SPORTS HD", "logo": "http://www.iptbest.xyz/logo/Win-Sports-HD.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/34697"},
+    {"nombre": "COLOMBIA - WIN SPORTS MAS HD", "logo": "http://www.iptbest.xyz/logo/Win-Sports-Mas-HD.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/70672"},
+    {"nombre": "COLOMBIA - ZOOM", "logo": "http://www.iptbest.xyz/logo/Zoom_Colombia.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/92734"},
+    {"nombre": "COLOMBIA - RCN NOVELAS", "logo": "http://www.iptbest.xyz/logo/RCN-Novelas.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/92730"},
+    {"nombre": "COLOMBIA - CANAL UNO HD", "logo": "http://www.iptbest.xyz/logo/Canal1-Colombia.png", "url": "http://tv.soccerplus.link:8000/poncejurado/jairo1988/92566"}
   ],
   "peliculas": [],
   "series": []
