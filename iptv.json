@@ -8,7 +8,7 @@
     {
       "nombre": "Teleamazonas",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/640px-Teleamazonas_Logo.png",
-      "url": "https://hv.teleamazonas.com/teleamazonas/index.m3u8"
+      "url": "hhtp://redima.pro:8880/live/FLOFICO/FLOFICO/682.m3u8"
     },
     {
       "nombre": "TC Televisión",
@@ -18,7 +18,7 @@
     {
       "nombre": "Ecuavisa",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/640px-Ecuavisa_Logo_2019.png",
-      "url": "https://play.ecuavisa.com/live/hls/ecuavisa.m3u8"
+      "url": "http://redima.pro:8880/live/FLOFICO/FLOFICO/447.m3u8"
     },
     {
       "nombre": "RTS",
